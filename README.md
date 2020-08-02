@@ -1,7 +1,6 @@
 # MyPortfolio
 
 white-lines
-
 https://maks-nerd.github.io/white-lines/
 
 central-park
@@ -20,6 +19,7 @@ eklipse
 https://maks-nerd.github.io/eklipse/
 
 komputer_mastera
+
 https://maks-nerd.github.io/komputer_mastera/
 https://maks-nerd.github.io/komputer_mastera/challenge_to.html
 https://maks-nerd.github.io/komputer_mastera/computer_rep.html
@@ -30,6 +30,7 @@ https://maks-nerd.github.io/komputer_mastera/price_list.html
 https://maks-nerd.github.io/komputer_mastera/spare_parts.html
 
 kvashnin
+
 https://maks-nerd.github.io/kvashnin/
 https://maks-nerd.github.io/kvashnin/contacts.html
 https://maks-nerd.github.io/kvashnin/crosses.html
@@ -45,6 +46,7 @@ https://maks-nerd.github.io/kvashnin/stamps.html
 https://maks-nerd.github.io/kvashnin/story.html
 
 srubstroy
+
 https://maks-nerd.github.io/srubstroy/
 https://maks-nerd.github.io/srubstroy/404.html
 https://maks-nerd.github.io/srubstroy/article.html
@@ -57,6 +59,7 @@ https://maks-nerd.github.io/srubstroy/projects.html
 https://maks-nerd.github.io/srubstroy/shares.html
 
 balkoni
+
 https://maks-nerd.github.io/balkoni/
 https://maks-nerd.github.io/balkoni/balkon-pod-kljuch-chto-jeto-takoe.html
 https://maks-nerd.github.io/balkoni/balkony-v-stile-dzhipa-hummer.html
